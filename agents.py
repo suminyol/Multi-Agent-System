@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #model setup
-llm=ChatGoogleGenerativeAI(model="gemini-3.6-flash")
+llm=ChatGoogleGenerativeAI(model="gemini-3.7-flash")
 
 # first agent
 def build_search_agent():
