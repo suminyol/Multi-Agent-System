@@ -8,7 +8,7 @@ The system takes a research topic as input and coordinates specialized agents to
 
 **GitHub Repository:** [Multi-Agent-System](https://github.com/suminyol/Multi-Agent-System)
 
-**Live Application:** [Try the Streamlit App](https://share.streamlit.io/)
+**Live Application:** [Try the Streamlit App](https://multi-agent-system-18.streamlit.app/)
 
 ## ✨ Features
 
